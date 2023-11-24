@@ -134,3 +134,73 @@
 .shop-wrapper-col-2 .right-side-shop-col-2 .explore:hover i{
     opacity: 1;
 }
+.featur-product .featur-products-cards-wrapper .single-card-container .product-alert{
+    justify-content: space-between;
+    padding: 0 20px;
+    top: 25px;
+    width: 100%;
+ 
+}
+.featur-product .featur-products-cards-wrapper .single-card-container .product-alert p{
+    background-color: #fff;
+    padding: 4px;
+    font-size: .8em;
+    font-weight: 700;
+    color: var(--secondary-color);
+    cursor: text;
+}
+.featur-product .featur-products-cards-wrapper .single-card-container .product-alert i{
+    color: #fff;
+}
+.featur-product .featur-products-cards-wrapper .single-card-container .product-alert i:hover{
+    color: var(--primary-color);
+}
+.featur-product .featur-products-cards-wrapper .single-card-container .product-info .product-title h6{
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+.featur-product .featur-products-cards-wrapper .single-card-container .product-info .product-title p{
+    color: var(--secondary-color);
+}
+.featur-product .featur-products-cards-wrapper .single-card-container .product-info .price{
+    color: var(--p-color);
+}
+.featur-product .featur-products-cards-wrapper .single-card-container .product-info .product-title h6:hover{
+    color: var(--primary-color);
+}
+.featur-product .featur-products-cards-wrapper .single-card-container:hover img{
+    box-shadow: rgba(179, 174, 174, 0.4) 0px 30px 90px;
+}
+.featur-product .view h2{   
+    color: var(--p-color);
+    border-bottom: 2px solid var(--p-color);
+    font-weight: 700;
+}
+.featur-product .view h2:hover{
+    color: var(--primary-color);
+}
+footer .footer-logo{
+    font-size: 36px;
+    color: #fff;
+}
+footer{
+    background-color: #000000;
+    padding: 120px 30px;
+    margin-bottom: 60px;
+}
+footer .footer-logo span{
+    color: var(--secondary-color);;
+}
+footer .footer-logo span:hover{
+    color: var(--primary-color);
+}
+footer .copyright{
+    color: #717275;
+    line-height: 50px;
+    margin-top: 30px;
+    font-size: 18px;
+}
+footer .foter-container .sitemap,.social-icon{
+    color: var(--p-color);
+}
